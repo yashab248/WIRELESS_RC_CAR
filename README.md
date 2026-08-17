@@ -826,3 +826,6 @@ It was learning how to identify a limitation, understand its cause, select a bet
 ### **Build → Test → Diagnose → Redesign → Repeat**
 
 That was the engineering process behind the RC car.
+
+<img width="610" height="811" alt="image" src="https://github.com/user-attachments/assets/c0f0cac1-d5fa-4488-826a-582c0e959aee" />
+
