@@ -1,5 +1,7 @@
 # Arduino RC Car 🚗
 
+<img width="607" height="811" alt="image" src="https://github.com/user-attachments/assets/cd94e7e9-bdb6-44be-b279-5f0029d5d0c1" />
+
 ## 🎥 Final Demonstration
 
 > **A fully custom-built Arduino RC car featuring wireless control, a hobby gear motor, TB6612FNG motor driver, 11.1 V LiPo power, servo steering, and Ackermann steering geometry.**
@@ -7,8 +9,6 @@
 ### ▶️ Full RC Car Demonstration
 
 **[WATCH THE FULL DEMONSTRATION →](INSERT-YOUTUBE-LINK-HERE)**
-
-![Final RC Car]<img width="607" height="811" alt="image" src="https://github.com/user-attachments/assets/cd94e7e9-bdb6-44be-b279-5f0029d5d0c1" />
 
 
 ### What You're Looking At
