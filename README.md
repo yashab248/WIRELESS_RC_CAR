@@ -109,18 +109,7 @@ The first objective was straightforward:
 
 I initially used a transistor switching circuit:
 
-```text
-Arduino
-   │
-   ↓
-NPN Transistor
-   │
-   ↓
-DC Motor
-   │
-   ↓
-Battery
-```
+<img width="530" height="300" alt="image" src="https://github.com/user-attachments/assets/2fe56b06-12fc-4b83-9210-1c246df360ed" />
 
 This allowed the Arduino to control the motor without driving the motor directly from an Arduino output.
 
