@@ -84,15 +84,7 @@ The final vehicle is divided into two major systems.
 
 ### Transmitter
 
-```text
-Joystick
-   ↓
-Arduino
-   ↓
-nRF24L01+
-   ↓
-Wireless Communication
-```
+<img width="744" height="1018" alt="image" src="https://github.com/user-attachments/assets/d883bf10-5461-4549-9401-97305bd7e380" />
 
 ### RC Car
 
