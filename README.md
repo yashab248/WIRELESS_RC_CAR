@@ -171,31 +171,11 @@ This was one of the first major examples of how changing one part of the system 
 
 The transistor circuit was useful for basic motor switching, but I needed the motor to run in **both directions**.
 
-An RC car obviously needs:
-
-```text
-FORWARD
-   ↑
-   │
- STOP
-   │
-   ↓
-REVERSE
-```
+An RC car obviously needs forward and reverse control. 
 
 So I moved to an **L293D H-bridge motor driver**.
 
-The system changed from:
-
-```text
-Arduino → Transistor → Motor
-```
-
-to:
-
-```text
-Arduino → L293D → Motor
-```
+The system changed from using NPN transistors to proper H-Bridge motor drivers.
 
 <img width="1125" height="709" alt="image" src="https://github.com/user-attachments/assets/ae3a8957-1439-43c9-8147-0418bb58f5f5" />
 <img width="1048" height="810" alt="image" src="https://github.com/user-attachments/assets/8d5080b9-4647-48b3-8a43-975a13f5f2df" />
