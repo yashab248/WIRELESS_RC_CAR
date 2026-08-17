@@ -132,16 +132,7 @@ To solve the torque problem, I switched to a **hobby gear motor**.
 
 The gearbox reduces the motor's rotational speed while increasing the available output torque.
 
-```text
-High-Speed Motor
-       ↓
-   Gear Reduction
-       ↓
-Lower RPM
-Higher Torque
-       ↓
-     Wheel
-```
+<img width="426" height="624" alt="image" src="https://github.com/user-attachments/assets/fcd833e3-4298-4cf0-a523-869d96b6dc99" />
 
 This was much better suited to the vehicle.
 
