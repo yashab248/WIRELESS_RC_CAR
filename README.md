@@ -109,8 +109,9 @@ The first objective was straightforward:
 
 I initially used a transistor switching circuit:
 
-<img width="530" height="300" alt="image" src="https://github.com/user-attachments/assets/2fe56b06-12fc-4b83-9210-1c246df360ed" />
-<img width="560" height="350" alt="image" src="https://github.com/user-attachments/assets/7838f541-63d8-41f0-9dfc-ea0bdde39560" />
+<img width="896" height="494" alt="image" src="https://github.com/user-attachments/assets/4045c679-bfc7-4fda-b663-3336caac5903" />
+<img width="1048" height="811" alt="image" src="https://github.com/user-attachments/assets/571476ec-8935-4363-9d68-598cbb7d045f" />
+
 
 This allowed the Arduino to control the motor without driving the motor directly from an Arduino output.
 
