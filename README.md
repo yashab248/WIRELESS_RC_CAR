@@ -1,6 +1,6 @@
 # Arduino RC Car 🚗
 
-<img width="607" height="811" alt="image" src="https://github.com/user-attachments/assets/cd94e7e9-bdb6-44be-b279-5f0029d5d0c1" />
+<img width="350" height="400" alt="image" src="https://github.com/user-attachments/assets/cd94e7e9-bdb6-44be-b279-5f0029d5d0c1" />
 
 ## 🎥 Final Demonstration
 
