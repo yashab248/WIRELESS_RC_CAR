@@ -8,7 +8,8 @@
 
 **[WATCH THE FULL DEMONSTRATION →](INSERT-YOUTUBE-LINK-HERE)**
 
-![Final RC Car](images/final-rc-car.jpg)
+![Final RC Car]<img width="607" height="811" alt="image" src="https://github.com/user-attachments/assets/cd94e7e9-bdb6-44be-b279-5f0029d5d0c1" />
+
 
 ### What You're Looking At
 
