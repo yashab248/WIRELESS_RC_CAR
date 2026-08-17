@@ -46,37 +46,8 @@ The answer turned into a series of engineering problems.
 
 The final car went through several major iterations:
 
-```text
-Simple DC Motor
-      ↓
-Insufficient Torque
-      ↓
-Hobby Gear Motor
-      ↓
-Insufficient Speed
-      ↓
-11.1 V LiPo Battery
-      ↓
-Need Reverse Control
-      ↓
-L293D Motor Driver
-      ↓
-Excessive Voltage Drop
-      ↓
-TB6612FNG Motor Driver
-      ↓
-Need Wireless Control
-      ↓
-nRF24L01+ Communication
-      ↓
-Steering Problems
-      ↓
-Ackermann Steering
-      ↓
-LEGO Chassis
-      ↓
-Final RC Car
-```
+<img width="816" height="837" alt="image" src="https://github.com/user-attachments/assets/7608a841-03fd-4315-81cb-7479d39721ac" />
+
 
 Every major change was made because the previous design exposed a limitation.
 
