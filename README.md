@@ -88,14 +88,8 @@ The final vehicle is divided into two major systems.
 
 ### RC Car
 
-```text
-nRF24L01+
-     ↓
-Receiver Arduino
-     ├──────────────→ TB6612FNG → Gear Motor → Rear Wheels
-     │
-     └──────────────→ Servo → Ackermann Steering → Front Wheels
-```
+<img width="440" height="500" alt="image" src="https://github.com/user-attachments/assets/26991810-6fa5-43b2-a4f9-0ce53b84f8e3" />
+
 
 The transmitter reads the joystick and sends commands wirelessly to the vehicle.
 
