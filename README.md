@@ -155,7 +155,7 @@ I purchased an **11.1 V 3S LiPo battery** to provide more voltage and significan
 
 The design became:
 
-<img width="217" height="347" alt="image" src="https://github.com/user-attachments/assets/ff7b02c0-bc3e-417e-8169-715f2d7c77d7" />
+<img width="245" height="425" alt="image" src="https://github.com/user-attachments/assets/82400e92-c833-4706-a656-8a095c5b2cdb" />
 
 The combination of:
 
