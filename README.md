@@ -154,15 +154,7 @@ I purchased an **11.1 V 3S LiPo battery** to provide more voltage and significan
 
 The design became:
 
-```text
-11.1 V LiPo
-     ↓
-Motor Driver
-     ↓
-Gear Motor
-     ↓
-Wheels
-```
+<img width="217" height="347" alt="image" src="https://github.com/user-attachments/assets/ff7b02c0-bc3e-417e-8169-715f2d7c77d7" />
 
 The combination of:
 
