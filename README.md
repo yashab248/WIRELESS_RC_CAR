@@ -90,7 +90,7 @@ The final vehicle is divided into two major systems.
 
 ## Receiver
 
-<img width="250" height="363" alt="RECEIVER-FLOW-DIAGRAM" src="https://github.com/user-attachments/assets/78865a24-8819-43bb-b389-7d7ae810091d" />
+<img width="300" height="363" alt="RECEIVER-FLOW-DIAGRAM" src="https://github.com/user-attachments/assets/78865a24-8819-43bb-b389-7d7ae810091d" />
 <img width="430" height="363" alt="image" src="https://github.com/user-attachments/assets/4d4fa190-3dd8-4882-b014-1f776b2dc0be" />
 
 
