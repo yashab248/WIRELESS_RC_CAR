@@ -214,7 +214,7 @@ The TB6612FNG uses MOSFET-based outputs with significantly lower ON-resistance t
 
 The final motor-control system became:
 
-<img width="291" height="577" alt="image" src="" />
+<img width="291" height="577" alt="image" src="switchingToTB6612FNGDriver.png" />
 
 The TB6612FNG also allowed me to implement:
 
