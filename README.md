@@ -84,8 +84,14 @@ The final vehicle is divided into two major systems.
 
 ## Transmitter
 
+<img width="405" height="497" alt="image" src="https://github.com/user-attachments/assets/d14658fe-bac5-4461-aa86-f26196fac34b" />
+<img width="849" height="726" alt="image" src="https://github.com/user-attachments/assets/0f3e896c-d90d-4cb5-9e20-2f06d0869b91" />
+
 
 ## Receiver
+
+<img width="937" height="1034" alt="RECEIVER-FLOW-DIAGRAM" src="https://github.com/user-attachments/assets/78865a24-8819-43bb-b389-7d7ae810091d" />
+<img width="1011" height="714" alt="image" src="https://github.com/user-attachments/assets/4d4fa190-3dd8-4882-b014-1f776b2dc0be" />
 
 
 The transmitter reads the joystick and sends commands wirelessly to the vehicle.
