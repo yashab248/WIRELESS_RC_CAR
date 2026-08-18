@@ -315,18 +315,7 @@ Simply turning both front wheels by the same angle isn't ideal for a vehicle.
 
 During a turn, the inner wheel needs to turn through a larger angle than the outer wheel.
 
-```text
-           FRONT
-
-       / Inner
-      /
-     /
-    /________________
-                   \
-                    \ Outer
-
-              TURN →
-```
+<img width="724" height="593" alt="image" src="ackermannSteeringDiagram.jpg" />
 
 In simplified form:
 
