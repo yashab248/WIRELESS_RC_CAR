@@ -317,29 +317,13 @@ During a turn, the inner wheel needs to turn through a larger angle than the out
 
 <img width="724" height="593" alt="image" src="ackermannSteeringDiagram.jpg" />
 
-In simplified form:
-
-```text
-δ_inner > δ_outer
-```
-
 This is the basic principle of **Ackermann steering geometry**.
 
 I therefore built a mechanical linkage that allowed the servo to control the front wheels while producing the required steering relationship.
 
-The servo became the steering actuator:
+The servo became the steering actuator.
 
-```text
-Joystick
-   ↓
-Arduino
-   ↓
-Servo
-   ↓
-Steering Linkage
-   ↓
-Front Wheels
-```
+<img width="480" height="388" alt="image" src="https://github.com/user-attachments/assets/8f65f076-0315-4151-9608-26ae45888ca5" />
 
 ---
 
