@@ -214,15 +214,7 @@ The TB6612FNG uses MOSFET-based outputs with significantly lower ON-resistance t
 
 The final motor-control system became:
 
-```text
-Arduino
-   ↓
-TB6612FNG
-   ↓
-Hobby Gear Motor
-   ↓
-Rear Wheels
-```
+<img width="291" height="577" alt="image" src="" />
 
 The TB6612FNG also allowed me to implement:
 
