@@ -84,7 +84,7 @@ The final vehicle is divided into two major systems.
 
 ### Transmitter
 
-<img width="340" height="500" alt="image" src="https://github.com/user-attachments/assets/d883bf10-5461-4549-9401-97305bd7e380" />
+<img width="170" height="250" alt="image" src="https://github.com/user-attachments/assets/d883bf10-5461-4549-9401-97305bd7e380" />
 
 ### RC Car
 
