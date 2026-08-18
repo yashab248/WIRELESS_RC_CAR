@@ -236,17 +236,7 @@ I chose the **nRF24L01+ 2.4 GHz transceiver**.
 
 The system became:
 
-```text
-REMOTE CONTROLLER                  RC CAR
-
-Joystick                           nRF24L01+
-   ↓                                   ↓
-Arduino                           Arduino
-   ↓                                ↙     ↘
-nRF24L01+                      TB6612FNG   Servo
-   │                               ↓        ↓
-   └──── Wireless Link ─────── Gear Motor  Steering
-```
+<img width="724" height="593" alt="image" src="https://github.com/user-attachments/assets/1ab25227-1d3d-4557-9ff5-ea1496a5b8c0" />
 
 The joystick provided two control axes:
 
