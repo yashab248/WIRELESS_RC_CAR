@@ -84,7 +84,7 @@ The final vehicle is divided into two major systems.
 
 ## Transmitter
 
-<img width="405" height="497" alt="image" src="https://github.com/user-attachments/assets/d14658fe-bac5-4461-aa86-f26196fac34b" />
+<img width="202" height="248" alt="image" src="https://github.com/user-attachments/assets/d14658fe-bac5-4461-aa86-f26196fac34b" />
 <img width="849" height="726" alt="image" src="https://github.com/user-attachments/assets/0f3e896c-d90d-4cb5-9e20-2f06d0869b91" />
 
 
