@@ -194,17 +194,7 @@ The L293D has a relatively large voltage drop across its output stage.
 
 That meant:
 
-```text
-Battery Voltage
-      ↓
-    L293D
-      ↓
-Voltage Lost
-      ↓
-Lower Motor Voltage
-      ↓
-Reduced Motor Performance
-```
+<img width="291" height="577" alt="image" src="https://github.com/user-attachments/assets/45e88a3b-bd82-45ac-bb58-a9cebf7c2625" />
 
 Since I was already trying to get as much performance as possible from the 11.1 V battery, losing a significant amount of voltage across the motor driver was not ideal.
 
