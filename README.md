@@ -83,16 +83,16 @@ The project therefore involved:
 The final vehicle is divided into two major systems.
 
 ## Transmitter
-
-<img width="250" height="363" alt="image" src="https://github.com/user-attachments/assets/d14658fe-bac5-4461-aa86-f26196fac34b" />
-<img width="430" height="363" alt="image" src="https://github.com/user-attachments/assets/0f3e896c-d90d-4cb5-9e20-2f06d0869b91" />
-
+<p align = "center">
+   <img width="250" height="363" alt="image" src="https://github.com/user-attachments/assets/d14658fe-bac5-4461-aa86-f26196fac34b" />
+   <img width="430" height="363" alt="image" src="https://github.com/user-attachments/assets/0f3e896c-d90d-4cb5-9e20-2f06d0869b91" />
+</p>
 
 ## Receiver
-
-<img width="300" height="363" alt="RECEIVER-FLOW-DIAGRAM" src="https://github.com/user-attachments/assets/78865a24-8819-43bb-b389-7d7ae810091d" />
-<img width="430" height="363" alt="image" src="https://github.com/user-attachments/assets/4d4fa190-3dd8-4882-b014-1f776b2dc0be" />
-
+<p align = "center">
+   <img width="300" height="363" alt="RECEIVER-FLOW-DIAGRAM" src="https://github.com/user-attachments/assets/78865a24-8819-43bb-b389-7d7ae810091d" />
+   <img width="430" height="363" alt="image" src="https://github.com/user-attachments/assets/4d4fa190-3dd8-4882-b014-1f776b2dc0be" />
+</p>
 
 The transmitter reads the joystick and sends commands wirelessly to the vehicle.
 
