@@ -12,6 +12,8 @@
 
 **[WATCH THE FULL DEMONSTRATION →](https://www.youtube.com/shorts/0IQY5TpGV2g)**
 
+**[WATCH THE ANOTHER DEMONSTRATION →](https://youtube.com/shorts/Xd0EucEjldY)**
+
 **[WATCH THE STEERING SERVO FUNCTIONALITY →](https://youtube.com/shorts/4zZ94nq_bS0)**
 
 **[WATCH THE FORWARD/REVERSE DRIVING FUNCTIONALITY →](https://youtube.com/shorts/EmwOFHRTGS0)**
