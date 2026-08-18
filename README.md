@@ -112,9 +112,10 @@ The first objective was straightforward:
 
 I initially used a transistor switching circuit:
 
-<img width="650" height="405" alt="image" src="https://github.com/user-attachments/assets/4045c679-bfc7-4fda-b663-3336caac5903" />
-<img width="650" height="405" alt="image" src="https://github.com/user-attachments/assets/571476ec-8935-4363-9d68-598cbb7d045f" />
-
+<p align="center">
+   <img width="650" height="405" alt="image" src="https://github.com/user-attachments/assets/4045c679-bfc7-4fda-b663-3336caac5903" />
+   <img width="650" height="405" alt="image" src="https://github.com/user-attachments/assets/571476ec-8935-4363-9d68-598cbb7d045f" />
+</p>
 
 This allowed the Arduino to control the motor without driving the motor directly from an Arduino output.
 
