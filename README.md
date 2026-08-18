@@ -348,31 +348,6 @@ The servo became the steering actuator.
 
 ---
 
-# 📐 Project Documentation
-
-The following diagrams document the system and its development.
-
-### Development Flowchart
-
-![Development Flowchart](diagrams/PROJECT-DEVELOPMENT-FLOWCHART.png)
-
-### Final System Block Diagram
-
-![System Block Diagram](diagrams/FINAL-SYSTEM-BLOCK-DIAGRAM.png)
-
-### Motor Control Evolution
-
-![Motor Control Evolution](diagrams/MOTOR-CONTROL-EVOLUTION.png)
-
-### Final Electrical Schematic
-
-![Final Electrical Schematic](diagrams/FINAL-ELECTRICAL-SCHEMATIC.png)
-
-### Ackermann Steering Geometry
-
-![Ackermann Steering](diagrams/ACKERMANN-STEERING-DIAGRAM.png)
-
----
 
 # 💻 Software
 
@@ -386,18 +361,6 @@ The transmitter:
 2. Applies the appropriate mapping/dead zone.
 3. Creates a command packet.
 4. Sends the packet through the nRF24L01+.
-
-```text
-Joystick
-   ↓
-Analog Input
-   ↓
-Mapping / Dead Zone
-   ↓
-Command Packet
-   ↓
-nRF24L01+
-```
 
 ## Receiver
 
