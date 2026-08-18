@@ -85,10 +85,13 @@ The final vehicle is divided into two major systems.
 ### Transmitter
 
 <img width="170" height="250" alt="image" src="https://github.com/user-attachments/assets/d883bf10-5461-4549-9401-97305bd7e380" />
+<img width="1123" height="794" alt="image" src="https://github.com/user-attachments/assets/530be49b-3846-4419-93b6-c74d46e291ea" />
+
 
 ### RC Car
 
 <img width="220" height="250" alt="image" src="https://github.com/user-attachments/assets/26991810-6fa5-43b2-a4f9-0ce53b84f8e3" />
+<img width="1123" height="791" alt="image" src="https://github.com/user-attachments/assets/bbed56bc-5026-4138-986c-760990b961d1" />
 
 
 The transmitter reads the joystick and sends commands wirelessly to the vehicle.
