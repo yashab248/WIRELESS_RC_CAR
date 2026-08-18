@@ -329,59 +329,7 @@ The servo became the steering actuator.
 
 # 🏎️ Final Electrical Architecture
 
-```text
-                    ┌─────────────────┐
-                    │  11.1 V LiPo   │
-                    └────────┬────────┘
-                             │
-                             ▼
-                    ┌─────────────────┐
-                    │   TB6612FNG     │
-                    │  Motor Driver   │
-                    └────────┬────────┘
-                             │
-                             ▼
-                    ┌─────────────────┐
-                    │ Hobby Gear Motor│
-                    └────────┬────────┘
-                             │
-                             ▼
-                       Rear Wheels
-
-
-Joystick
-   │
-   ▼
-┌──────────────┐
-│ Transmitter  │
-│   Arduino    │
-└──────┬───────┘
-       │
-       ▼
-┌──────────────┐
-│  nRF24L01+   │
-└──────┬───────┘
-       │
-       │ 2.4 GHz Wireless Link
-       │
-       ▼
-┌──────────────┐
-│  nRF24L01+   │
-└──────┬───────┘
-       │
-       ▼
-┌──────────────┐
-│   Receiver   │
-│    Arduino   │
-└──────┬───────┘
-       │
-       ├───────────────→ TB6612FNG
-       │
-       └───────────────→ Servo
-                              │
-                              ▼
-                       Ackermann Steering
-```
+<img width="1303" height="1017" alt="image" src="https://github.com/user-attachments/assets/d37c44b2-969c-4169-85c5-16347e3d7cb8" />
 
 ---
 
