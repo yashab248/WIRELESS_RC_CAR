@@ -82,10 +82,10 @@ The project therefore involved:
 
 The final vehicle is divided into two major systems.
 
-##Transmitter
+## Transmitter
 
 
-##Receiver
+## Receiver
 
 
 The transmitter reads the joystick and sends commands wirelessly to the vehicle.
