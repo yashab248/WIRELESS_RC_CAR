@@ -214,7 +214,7 @@ The TB6612FNG uses MOSFET-based outputs with significantly lower ON-resistance t
 
 The final motor-control system became:
 
-<img width="291" height="577" alt="image" src="switchingToTB6612FNGDriver.png" />
+<img width="251" height="577" alt="image" src="switchingToTB6612FNGDriver.png" />
 
 The TB6612FNG also allowed me to implement:
 
@@ -640,37 +640,6 @@ The most important lessons I learned were:
 
 ---
 
-# 📁 Repository Structure
-
-```text
-RC-Car/
-│
-├── README.md
-│
-├── transmitter/
-│   └── transmitter.ino
-│
-├── receiver/
-│   └── receiver.ino
-│
-├── diagrams/
-│   ├── PROJECT-DEVELOPMENT-FLOWCHART.png
-│   ├── FINAL-SYSTEM-BLOCK-DIAGRAM.png
-│   ├── MOTOR-CONTROL-EVOLUTION.png
-│   ├── FINAL-ELECTRICAL-SCHEMATIC.png
-│   ├── TRANSMITTER-SCHEMATIC.png
-│   ├── RECEIVER-SCHEMATIC.png
-│   └── ACKERMANN-STEERING-DIAGRAM.png
-│
-└── images/
-    ├── final-rc-car.jpg
-    ├── transmitter.jpg
-    ├── receiver-electronics.jpg
-    ├── lego-chassis.jpg
-    └── ackermann-steering.jpg
-```
-
----
 
 # 🔩 Components
 
