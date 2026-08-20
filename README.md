@@ -35,6 +35,27 @@ The car is controlled wirelessly using an **nRF24L01+ radio system**, with a joy
 * 🛑 **Wireless communication failsafe**
 
 ---
+# 🚗 The Final System
+
+The final vehicle is divided into two major systems.
+
+## Transmitter
+<p align = "center">
+   <img width="250" height="363" style = "border: 2px solid black;" alt="image" src="https://github.com/user-attachments/assets/d14658fe-bac5-4461-aa86-f26196fac34b" />
+   <img width="430" height="363" alt="image" src="https://github.com/user-attachments/assets/0f3e896c-d90d-4cb5-9e20-2f06d0869b91" />
+</p>
+
+## Receiver
+<p align = "center">
+   <img width="300" height="363" alt="RECEIVER-FLOW-DIAGRAM" src="https://github.com/user-attachments/assets/78865a24-8819-43bb-b389-7d7ae810091d" />
+   <img width="430" height="363" alt="image" src="https://github.com/user-attachments/assets/4d4fa190-3dd8-4882-b014-1f776b2dc0be" />
+</p>
+
+The transmitter reads the joystick and sends commands wirelessly to the vehicle.
+
+The receiver Arduino then converts those commands into motor and steering outputs.
+
+---
 
 # 🛠️ How I Built It
 
@@ -77,28 +98,6 @@ The project therefore involved:
 * Mechanical prototyping
 * Ackermann steering
 * System-level troubleshooting
-
----
-
-# 🚗 The Final System
-
-The final vehicle is divided into two major systems.
-
-## Transmitter
-<p align = "center">
-   <img width="250" height="363" style = "border: 2px solid black;" alt="image" src="https://github.com/user-attachments/assets/d14658fe-bac5-4461-aa86-f26196fac34b" />
-   <img width="430" height="363" alt="image" src="https://github.com/user-attachments/assets/0f3e896c-d90d-4cb5-9e20-2f06d0869b91" />
-</p>
-
-## Receiver
-<p align = "center">
-   <img width="300" height="363" alt="RECEIVER-FLOW-DIAGRAM" src="https://github.com/user-attachments/assets/78865a24-8819-43bb-b389-7d7ae810091d" />
-   <img width="430" height="363" alt="image" src="https://github.com/user-attachments/assets/4d4fa190-3dd8-4882-b014-1f776b2dc0be" />
-</p>
-
-The transmitter reads the joystick and sends commands wirelessly to the vehicle.
-
-The receiver Arduino then converts those commands into motor and steering outputs.
 
 ---
 
